@@ -1,2 +1,2 @@
 # github-actions-lab
-test project for testing
+test project for testing lab work
